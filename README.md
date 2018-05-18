@@ -11,6 +11,8 @@ The method established is based on two approaches :
 
 The final result is a smart mix between the prediction of both approaches.
 
+The notebook is available [here](https://github.com/NazBen/solution-challenge-jds18/blob/master/notebook/solution_LPSM204.ipynb).
+
 ## Authors
 
 The LPSM204 team is composed of three PhD Student from [Sorbonne University, LPSM](https://www.lpsm.paris/):
