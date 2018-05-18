@@ -25,6 +25,8 @@ The method established is based on two approaches :
 
 The final result is a smart mix between the prediction of both approaches.
 
+The notebook of the solution is available [here](https://github.com/NazBen/solution-challenge-jds18/blob/master/notebook/solution_LPSM204.ipynb).
+
 ## Dependencies
 
 Specific python packages are necessary if you're willing to test proposed methodology. In addition to the very casual ones (e.g., scipy, pandas, seaborn and others), you'll need:
