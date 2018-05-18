@@ -2,15 +2,6 @@
 
 This repository details the winning solution established by our team LPSM204 for the [data challenge](https://www.sfds.asso.fr/fr/jeunes_statisticiens/manifestations/610-data_challenge_jds_2018/) organized prior the [2018 JDS conference](http://jds2018.sfds.asso.fr/) by the [Young Statisticians and Probabilists](https://www.sfds.asso.fr/fr/jeunes_statisticiens/468-les_jeunes_statisticiens/) group.
 
-Short-term forecasting is a major issue for the main french electricity utility ["Electricité de France" (EDF)](https://www.edf.fr/). The purpose of forecasting is to predict future scenario and to adapt supply to demand. Energy producers mainly consider electrical consumption history to predict future demand. Another important information is the weather, which can greatly influence the consumption. The challenge proposed here is about forecasting the electricity consumption of a small island based on a one year history of electricity consumption and weather condition.
-
-The method established is based on two approaches :
-
-- a time-series forecasting using the electricity consumption, 
-- a machine learning approach using the electricity consumption and the weather conditions.
-
-The final result is a smart mix between the prediction of both approaches.
-
 ## Authors
 
 The LPSM204 team is composed of three PhD Student from [Sorbonne University, LPSM](https://www.lpsm.paris/):
@@ -20,6 +11,19 @@ The LPSM204 team is composed of three PhD Student from [Sorbonne University, LPS
 - Taïeb Touati,
 
  and sharing the same office (204).
+
+## Abstract 
+
+Short-term forecasting is a major issue for the main french electricity utility ["Electricité de France" (EDF)](https://www.edf.fr/). The purpose of forecasting is to predict future scenario and to adapt supply to demand. Energy producers mainly consider electrical consumption history to predict future demand. Another important information is the weather, which can greatly influence the consumption. The challenge proposed here is about forecasting the electricity consumption of a small island based on a one year history of electricity consumption and weather condition.
+
+![](illusration.png)
+
+The method established is based on two approaches :
+
+- a time-series forecasting using the electricity consumption, 
+- a machine learning approach using the electricity consumption and the weather conditions.
+
+The final result is a smart mix between the prediction of both approaches.
 
 ## Dependencies
 
