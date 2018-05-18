@@ -1,0 +1,19 @@
+# Jupyter notebook files
+.ipynb_checkpoints/
+
+# Python compiled files
+*__pycache__
+*.pyc
+
+# Spyder projets
+.spyproject/
+
+# Visual Studio project files
+*.pyproj
+*.sln
+*.suo
+.vs/
+.cache/
+
+# Setuptools files
+*.egg-info
