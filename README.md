@@ -44,7 +44,7 @@ All can be easily installed from Anaconda or pip.
 
 ## Oral Presentation
 
-A talk will be held Tuesday 29 of May at the [2018 JDS conference](http://jds2018.sfds.asso.fr/) to shortly present our solution. The schedule is available [here](https://toltex.u-ga.fr/programmeJDS2018) and the slides are available [here](https://github.com/NazBen/solution-challenge-jds18/blob/master/slides_challenge_jds_18.pdf).
+A talk will be held Tuesday 29 of May at the [2018 JDS conference](http://jds2018.sfds.asso.fr/) to shortly present our solution. The schedule is available [here](https://toltex.u-ga.fr/programmeJDS2018) and the slides are available [here](https://github.com/NazBen/solution-challenge-jds18/blob/master/slides_challenge_jds_2018.pdf).
 
 ## Technical report
 
