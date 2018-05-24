@@ -16,7 +16,7 @@ The LPSM204 team is composed of three PhD Student from [Sorbonne University, LPS
 
 Short-term forecasting is a major issue for the main french electricity utility ["Electricité de France" (EDF)](https://www.edf.fr/). The purpose of forecasting is to predict future scenario and to adapt supply to demand. Energy producers mainly consider electrical consumption history to predict future demand. Another important information is the weather, which can greatly influence the consumption. The challenge proposed here is about forecasting the electricity consumption of a small island based on a one year history of electricity consumption and weather condition.
 
-![](illusration.png)
+![](illustration.png)
 
 The method established is based on two approaches :
 
@@ -44,7 +44,7 @@ All can be easily installed from Anaconda or pip.
 
 ## Oral Presentation
 
-A talk will be held Tuesday 29 of May at the [2018 JDS conference](http://jds2018.sfds.asso.fr/) to shortly present our solution. The schedule is available [here](https://toltex.u-ga.fr/programmeJDS2018) and the slides will be online soon in this repository.
+A talk will be held Tuesday 29 of May at the [2018 JDS conference](http://jds2018.sfds.asso.fr/) to shortly present our solution. The schedule is available [here](https://toltex.u-ga.fr/programmeJDS2018) and the slides are available [here](https://github.com/NazBen/solution-challenge-jds18/blob/master/slides_challenge_jds_18.pdf).
 
 ## Technical report
 
