@@ -52,4 +52,4 @@ Following this competition, a paper should be submitted at the [CSBIGS (Case Stu
 
 ## Acknowledgment
 
-Our thanks go to the organizer of the challenge and surely to our respective PhD supervisors which let us take some time to work on the challenge.
+Our thanks go to the organizer of the challenge and surely to our respective PhD supervisors who let us take some time to work on the challenge.
